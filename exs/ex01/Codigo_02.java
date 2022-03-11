@@ -21,7 +21,7 @@ public class Codigo_02 {
             diasMes[1] = 29;
         if( ( m >= 1 && m <= 12 ) && (d >= 1 && d <= diasMes[m - 1]) ){
                 return true;
-        }
+        }; 
         return false;
 
     }
