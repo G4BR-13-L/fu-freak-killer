@@ -11,6 +11,8 @@ package Tests;
 **/
 
 import src.Aluno;
+import src.Turma;
+
 import org.junit.jupiter.api.Test;
 import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
@@ -60,6 +62,43 @@ public class AlunoTest {
             assertEquals(0, alunoComNotas.getSomaDasNotas());
         }
 
+    }
+
+    @Nested
+    class testesDeFrequenciaEmAulas{
+
+        Aluno alunoComFrequencia;
+        
+        @BeforeEach
+        public void iniciarBateriaDeTestesComFrequencia(){
+            alunoComFrequencia = new Aluno();
+        }
+
+        @Test
+        public void testarFrequencia(){
+            aluno.setFrequencia(100);
+            assertEquals(100, aluno.getFrequencia());
+        }
+
+        @Test
+        public void testarIncrementoDeFrequencia(){
+            aluno.setFrequencia(10);
+            aluno.darPresenca();
+            assertEquals(11, aluno.getFrequencia());
+        }
+
+        @Test
+        public void testeDeFrequenciaAcimaDoNormal(){
+            aluno.setFrequencia(Turma.QUANTIDADE_DE_AULAS);
+            aluno.darPresenca();
+            assertEquals(Turma.QUANTIDADE_DE_AULAS, aluno.getFrequencia());
+        }
+
+        @Test
+        public void testeDeFrequenciaAbaixoDoNormal(){
+            aluno.setFrequencia(-1);
+            assertEquals(0, aluno.getFrequencia());
+        }
 
     }
 
