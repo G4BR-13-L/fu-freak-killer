@@ -5,9 +5,6 @@ public class Aluno {
     private int[] atividades; 
     private int frequencia;
     
-    
-
-
     private String nome = "Batman";
 
     public Aluno(){
