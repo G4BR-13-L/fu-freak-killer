@@ -15,11 +15,14 @@ public class Pessoa {
         this.setSexo(sexo);
     }
     public Pessoa() {
-        Pessoa(2022, "sem-nome", "000.000.000-00", "indefinido");
+        this.setAnoDeNascimento(2022);
+        this.setNome("sem-nome");
+        this.setCpf("000.000.000-00");
+        this.setSexo("indefinido");
     }
 
     public boolean isMaiorDeIdade(){
-        return this.getIdade() >=18;
+        return this.getIdade() >= 18;
     }
 
     public String getCPF() {

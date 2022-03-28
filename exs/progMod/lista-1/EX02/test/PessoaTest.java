@@ -3,6 +3,7 @@ package test;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
+
 import src.Pessoa;
 import static org.junit.Assert.assertEquals;
 
@@ -19,7 +20,7 @@ public class PessoaTest {
     class TestarValoresPadraoDoConstrutor{
         @Test
         public void validarCPFpadrao() {
-            assertEquals("000.000.000-00", pessoa.getCPF());
+            assertEquals("000.000.000-00", pessoa.getCpf());
         }
 
         @Test
