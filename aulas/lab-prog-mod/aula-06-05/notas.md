@@ -35,3 +35,8 @@ public static Veiculo sakvarBinario(DataInputStream arq){
     return new Veiculo(arq.readUTF(), arq.readDouble(), arq.readDouble());
 }
 ````
+
+A interface ```Serializable```possui metodos estáticos que não precisam ser implementados, mas é necessário um numero de série. para garantir a convergencia e compatibilidade entre objetos. "Se voce mexer em qualquer coisa da classe, voce muda o numero de série"
+```java
+private static final long serialVersionUID = 20221L
+```
