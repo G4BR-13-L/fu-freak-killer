@@ -1,0 +1,58 @@
+DSBLVRN4;Introduction to Algorithms
+8R0WB267;The Art of Computer Programming
+I70RTI47;Compilers
+RQCO839F;The Design and Evolution of C++
+QKIGJO3V;Object Oriented Analysis and Design
+KC6BLJIU;The Unified Software Development Process
+EMDERJCB;UML Distilled
+ZYK36NI5;Refactoring
+0FK8ZXSI;Agile
+Q24CSAAG;Extreme Programming Explained
+CYEQI01I;Clean Code
+DQ8BAC4H;The Clean Coder
+KZP5ADAU;The Pragmatic Programmer
+A5D6W6QS;Design Patterns
+3FQXCBBQ;Patterns of Enterprise Application Patterns
+NDREPJ7Q;Domain Driven Design
+LJ7AD37D;The Lean Startup
+ADS7ZK5P;The Mythical Man-Month
+D279IVGE;Hobbit 
+70WT64GO;O Senhor dos Anéis
+96KHUL73;O Silmarillion
+1VKB30XI;Contos Inacabados
+X38AAT13;As Aventuras de Tom Bombadil
+6UDYSI0Z;Os Filhos de Húrin
+E6N5D1XY;The history of Middle-earth: The Book of Lost Tales Part I
+C3WO3Y96;The history of Middle-earth: The Book of Lost Tales Part II
+H7OU8GEJ;The history of Middle-earth: The Lays of Beleriand
+0BZ9TAPH;The history of Middle-earth: The Shaping of Middle-earth
+SMOKW97A;The history of Middle-earth: The Lost Road and Other Writings
+GSEM8KG6;The history of Middle-earth: The Return of the Shadow
+XX24AY4P;The history of Middle-earth: The Treason of Isengard
+MA3XRCLS;The history of Middle-earth: The War of the Ring
+XF9N9EBX;The history of Middle-earth: Sauron Defeated
+A5FEWVZD;The history of Middle-earth: Morgoth’s Ring
+NI3VDW6V;The history of Middle-earth: The War of the Jewels
+E8FF0FIY;The history of Middle-earth: The People’s of Middle-earth
+GS3WS5NG;The History of Middle-earth Index
+9PAV7GZV;Beowulf (tradução comentada)
+XRRLVL50;Sir Gawain and the Green Knight (tradução)
+6AMB93UO;Finn and Hengest (estudo)
+QFQV147I;The Monsters and the Critics (ensaio)
+4P4VIA3N;Tolkien On Fairy-stories (expanded edition)
+NWD7QPFW;Mestre Gil de Ham
+WIU9UJ12;Cartas do Papai Noel 
+A0BVWF8N;Roverandom (ed. Brasileira)
+05Z3056U;Ferreiro de Bosque Grande
+98RIC0GE;A Lenda de Sigurd & Gudrún
+WFMXWNRF;A Queda de Artur
+P2HDGKFF;A História de Kullervo
+K6RDICCP;Sr. Bliss
+WXBB39OE;A Última Canção de Bilbo 
+RAQ2FP31;Poemas de O Senhor dos Anéis
+LDVBHCUD;J. R. R. Tolkien Artist & Illustrator
+3X1LZ63Z;The Art of The Hobbit
+J0JQ7UWZ;The Art of The Lord of the Rings
+H9J9335H;Beren and Lúthien
+NDNEYAEQ;The Lay of Aotrou & Itroun
+2OOQGNT6;As Cartas de J. R. R. Tolkien
