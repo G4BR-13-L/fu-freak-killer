@@ -53,8 +53,6 @@ public class App {
          // O Metodo com stream propriamente dito
          List<Visitante> visitantes = clube.visitantesDoDia(LocalDateTime.now().plusDays(2));
          
-         // Printar visitantes de maneira formatada
-         System.out.println("");
         
         /**
          * O clube deve conseguir consultar o total de acessos
@@ -62,10 +60,6 @@ public class App {
          *  ou visitantes.
          */
 
-
-
-
-
-
+         double visitasPeriodo = clube.acessosIntervalo(LocalDateTime.now(), LocalDateTime.now().plusDays(20));
     }
 }
